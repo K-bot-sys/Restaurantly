@@ -1,7 +1,7 @@
 /**
 * Template Name: Restaurantly
 * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Updated: Jun 05 2024 with Bootstrap v5.3.3
+* Updated: Jun 06 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -18,9 +18,9 @@
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
-:root {
-  --background-color: #0c0b09; /* Background color for the entire website as well as background color for individual sections */
-  --default-color: rgba(255, 255, 255, 0.7); /* Default text color for the entire website. It's used for paragraphs, lists, and other text elements */
+:root { 
+  --background-color: #0c0b09; /* Background color for the entire website, including individual sections */
+  --default-color: rgba(255, 255, 255, 0.7); /* Default color used for the majority of the text content across the entire website */
   --heading-color: #ffffff; /* Color for headings, subheadings and title throughout the website */
   --accent-color: #cda45e; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --contrast-color: #151411; /* The contrast color is used for elements when the background color is one of the heading, accent, or default colors. Its purpose is to ensure proper contrast and readability when placed over these more dominant colors */
